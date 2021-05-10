@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">FYP-Application</string>
+    <string name="title_activity_navigationbar">navigationbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="view_all">View All</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="nepal_districts">
+        <item>achham</item>
+        <item>arghakhanchi</item>
+        <item>baglung</item>
+        <item>baitadi</item>
+        <item>bajhang</item>
+        <item>bajura</item>
+        <item>banke</item>
+        <item>bara</item>
+        <item>bardiya</item>
+        <item>bhaktapur</item>
+        <item>bhojpur</item>
+        <item>chitwan</item>
+        <item>dadeldhura</item>
+        <item>dailekh</item>
+        <item>dang deukhuri</item>
+        <item>darchula</item>
+        <item>dhading</item>
+        <item>dhankuta</item>
+        <item>dhanusa</item>
+        <item>dholkha</item>
+        <item>dolpa</item>
+        <item>doti</item>
+        <item>gorkha</item>
+        <item>gulmi</item>
+        <item>humla</item>
+        <item>ilam</item>
+        <item>jajarkot</item>
+        <item>jhapa</item>
+        <item>jumla</item>
+        <item>kailali</item>
+        <item>kalikot</item>
+        <item>kanchanpur</item>
+        <item>kapilvastu</item>
+        <item>kaski</item>
+        <item>kathmandu</item>
+        <item>kavrepalanchok</item>
+        <item>khotang</item>
+        <item>lalitpur</item>
+        <item>lamjung</item>
+        <item>mahottari</item>
+        <item>makwanpur</item>
+        <item>manang</item>
+        <item>morang</item>
+        <item>mugu</item>
+        <item>mustang</item>
+        <item>myagdi</item>
+        <item>nawalparasi</item>
+        <item>nuwakot</item>
+        <item>okhaldhunga</item>
+        <item>palpa</item>
+        <item>panchthar</item>
+        <item>parbat</item>
+        <item>parsa</item>
+        <item>pyuthan</item>
+        <item>ramechhap</item>
+        <item>rasuwa</item>
+        <item>rautahat</item>
+        <item>rolpa</item>
+        <item>rukum</item>
+        <item>rupandehi</item>
+        <item>salyan</item>
+        <item>sankhuwasabha</item>
+        <item>saptari</item>
+        <item>sarlahi</item>
+        <item>sindhuli</item>
+        <item>sindhupalchok</item>
+        <item>siraha</item>
+        <item>solukhumbu</item>
+        <item>sunsari</item>
+        <item>surkhet</item>
+        <item>syangja</item>
+        <item>tanahu</item>
+        <item>taplejung</item>
+        <item>terhathum</item>
+        <item>udayapur</item>
+    </string-array>
+</resources>

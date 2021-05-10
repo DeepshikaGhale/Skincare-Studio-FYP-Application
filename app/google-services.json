@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873256198854",
+    "project_id": "ss-database-801fa",
+    "storage_bucket": "ss-database-801fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873256198854:android:2a87f7e3d2586eb1de2dc7",
+        "android_client_info": {
+          "package_name": "com.example.fyp_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873256198854-vhojithsjsi97p8erhg8d0rgou18e019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiGexNX8M3g7-JxBmm_7-6hEC-eFXP9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873256198854-vhojithsjsi97p8erhg8d0rgou18e019.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
